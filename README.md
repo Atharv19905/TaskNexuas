@@ -156,6 +156,7 @@ TaskNexus provides dedicated dashboards for each user role.
 - Analytics widgets
 - Performance insights
 - Quick actions
+- Download pdf reports
 
 The dashboard is designed to provide a clean and productive user experience.
 
@@ -227,7 +228,7 @@ TaskNexus
 ## 📸 Screenshots
 
 ### Dashboard
-<img width="1868" height="852" alt="faculty" src="https://github.com/user-attachments/assets/61541cd6-a1cd-4f1a-bd4d-e0fc9f4deb81" />
+<img width="1897" height="918" alt="dash" src="https://github.com/user-attachments/assets/c6943dca-4dab-4f6a-bd29-81ea70220b0e" />
 
 ### Analytics-My Work
 <img width="1901" height="900" alt="my work" src="https://github.com/user-attachments/assets/99efe534-7ed6-438f-b650-40891d984854" />
