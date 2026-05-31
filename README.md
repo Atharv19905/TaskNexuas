@@ -163,27 +163,7 @@ The dashboard is designed to provide a clean and productive user experience.
 
 ## 🏗️ System Architecture
 
-```text
-┌─────────────────────────────┐
-│        Frontend Layer       │
-│                             │
-│ React.js + Tailwind CSS     │
-└──────────────┬──────────────┘
-               │
-               ▼
-┌─────────────────────────────┐
-│         Backend API         │
-│                             │
-│ Node.js + Express.js        │
-└──────────────┬──────────────┘
-               │
-               ▼
-┌─────────────────────────────┐
-│      Database & Auth        │
-│                             │
-│         Supabase            │
-└─────────────────────────────┘
-```
+<img width="1536" height="1024" alt="system arch taskNexus" src="https://github.com/user-attachments/assets/e771ed51-a739-4d0d-a5cb-2bba745cd784" />
 
 ---
 
