@@ -308,7 +308,7 @@ This project is intended for educational, learning, and productivity management 
 
 ### Connect
 - GitHub: https://github.com/Atharv19905
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/atharv-chougule-185405313/)
+- LinkedIn: https://www.linkedin.com/in/atharv-chougule-185405313/
 
 ---
 
