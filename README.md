@@ -227,16 +227,17 @@ TaskNexus
 ## 📸 Screenshots
 
 ### Dashboard
-<img width="100%" alt="Dashboard Screenshot" src="screenshots/dashboard.png">
+<img width="1868" height="852" alt="faculty" src="https://github.com/user-attachments/assets/61541cd6-a1cd-4f1a-bd4d-e0fc9f4deb81" />
 
-### Task Management
-<img width="100%" alt="Task Management Screenshot" src="screenshots/tasks.png">
+### Analytics-My Work
+<img width="1901" height="900" alt="my work" src="https://github.com/user-attachments/assets/99efe534-7ed6-438f-b650-40891d984854" />
 
-### Analytics
-<img width="100%" alt="Analytics Screenshot" src="screenshots/analytics.png">
+### Analytics-Delegation
+<img width="1877" height="900" alt="delegation" src="https://github.com/user-attachments/assets/97b8758e-a5e2-42ef-85c7-2f7a786eec0b" />
 
-### Notifications
-<img width="100%" alt="Notifications Screenshot" src="screenshots/notifications.png">
+### Admin
+<img width="1917" height="863" alt="Admin" src="https://github.com/user-attachments/assets/024fc7a5-d226-4d8e-b119-dccbe994f0bd" />
+
 
 
 
