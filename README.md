@@ -239,7 +239,8 @@ TaskNexus
 ### Admin
 <img width="1917" height="863" alt="Admin" src="https://github.com/user-attachments/assets/024fc7a5-d226-4d8e-b119-dccbe994f0bd" />
 
-
+### Notifications
+<img width="1500" height="672" alt="noti" src="https://github.com/user-attachments/assets/45ab8100-8155-43a1-adf0-310546949106" />
 
 
 ---
