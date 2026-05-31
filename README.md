@@ -191,29 +191,6 @@ The dashboard is designed to provide a clean and productive user experience.
 
 ---
 
-## 📂 Project Structure
-
-```text
-TaskNexus
-│
-├── Frontend Repository
-│   ├── React.js
-│   ├── Tailwind CSS
-│   └── UI Components
-│
-├── Backend Repository
-│   ├── Node.js
-│   ├── Express.js
-│   ├── APIs
-│   └── Authentication
-│
-└── Supabase
-    ├── Database
-    ├── Authentication
-    └── Storage
-```
-
----
 
 ## 👥 User Roles Summary
 
