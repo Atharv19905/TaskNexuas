@@ -248,10 +248,10 @@ TaskNexus
 https://tasknexus-eight.vercel.app
 
 ### 💻 Frontend Repository
-https://github.com/yourusername/tasknexus-frontend
+[https://github.com/yourusername/tasknexus-frontend](https://github.com/Atharv19905/frontend)
 
 ### ⚙️ Backend Repository
-https://github.com/yourusername/tasknexus-backend
+[https://github.com/yourusername/tasknexus-backend](https://github.com/Atharv19905/backend)
 
 ---
 
@@ -260,9 +260,9 @@ https://github.com/yourusername/tasknexus-backend
 ### Clone Repositories
 
 ```bash
-git clone https://github.com/yourusername/tasknexus-frontend.git
+git clone https://github.com/Atharv19905/frontend.git
 
-git clone https://github.com/yourusername/tasknexus-backend.git
+git clone https://github.com/Atharv19905/backend.git
 ```
 
 
@@ -307,8 +307,8 @@ This project is intended for educational, learning, and productivity management 
 **Atharv Chougule**
 
 ### Connect
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/Atharv19905
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/atharv-chougule-185405313/)
 
 ---
 
