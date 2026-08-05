@@ -284,7 +284,7 @@ This project is intended for educational, learning, and productivity management 
 
 ## 👨‍💻 Developer
 
-**Atharv Chougule**
+**Atharv Chougule**<br>
 **Viraj Deorukhakar**
 
 ### Connect
