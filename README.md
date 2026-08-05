@@ -282,14 +282,14 @@ This project is intended for educational, learning, and productivity management 
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Developers
 
 **Atharv Chougule**<br>
 **Viraj Deorukhakar**
 
 ### Connect
-- GitHub: https://github.com/Atharv19905, https://github.com/VirajDeorukhakar123
-- LinkedIn: https://www.linkedin.com/in/atharv-chougule-185405313/ , https://www.linkedin.com/in/virajdeorukhakar
+- GitHub: https://github.com/Atharv19905,  https://github.com/VirajDeorukhakar123
+- LinkedIn: https://www.linkedin.com/in/atharv-chougule-185405313/,  https://www.linkedin.com/in/virajdeorukhakar
 
 ---
 
